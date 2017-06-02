@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data>
+  <arbetslosa>
+    <ID>446</ID>
+    <AREA_CODE>SDO21</AREA_CODE>
+    <AREA_TEXT>Älvsjö</AREA_TEXT>
+    <ALDA7K_CODE>1</ALDA7K_CODE>
+    <ALDA7K_TEXT>18-19 år</ALDA7K_TEXT>
+    <KONK_CODE>2</KONK_CODE>
+    <KONK_TEXT>kvinnor</KONK_TEXT>
+    <ALOKT_ANTAL>7</ALOKT_ANTAL>
+    <OCT_ANTAL>286</OCT_ANTAL>
+    <YEAR>2013</YEAR>
+  </arbetslosa>
+  <arbetslosa>
+    <ID>456</ID>
+    <AREA_CODE>SDO21</AREA_CODE>
+    <AREA_TEXT>Älvsjö</AREA_TEXT>
+    <ALDA7K_CODE>2</ALDA7K_CODE>
+    <ALDA7K_TEXT>20-24 år</ALDA7K_TEXT>
+    <KONK_CODE>2</KONK_CODE>
+    <KONK_TEXT>kvinnor</KONK_TEXT>
+    <ALOKT_ANTAL>17</ALOKT_ANTAL>
+    <OCT_ANTAL>724</OCT_ANTAL>
+    <YEAR>2013</YEAR>
+  </arbetslosa>
+  <arbetslosa>
+    <ID>466</ID>
+    <AREA_CODE>SDO21</AREA_CODE>
+    <AREA_TEXT>Älvsjö</AREA_TEXT>
+    <ALDA7K_CODE>3</ALDA7K_CODE>
+    <ALDA7K_TEXT>25-54 år</ALDA7K_TEXT>
+    <KONK_CODE>2</KONK_CODE>
+    <KONK_TEXT>kvinnor</KONK_TEXT>
+    <ALOKT_ANTAL>178</ALOKT_ANTAL>
+    <OCT_ANTAL>5779</OCT_ANTAL>
+    <YEAR>2013</YEAR>
+  </arbetslosa>
+  <arbetslosa>
+    <ID>476</ID>
+    <AREA_CODE>SDO21</AREA_CODE>
+    <AREA_TEXT>Älvsjö</AREA_TEXT>
+    <ALDA7K_CODE>4</ALDA7K_CODE>
+    <ALDA7K_TEXT>55-64 år</ALDA7K_TEXT>
+    <KONK_CODE>2</KONK_CODE>
+    <KONK_TEXT>kvinnor</KONK_TEXT>
+    <ALOKT_ANTAL>12</ALOKT_ANTAL>
+    <OCT_ANTAL>1286</OCT_ANTAL>
+    <YEAR>2013</YEAR>
+  </arbetslosa>
+</data>
